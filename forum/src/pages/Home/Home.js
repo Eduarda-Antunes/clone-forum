@@ -8,18 +8,16 @@ import { SectionStyle } from "./style";
 function Home() {
 
 
-  
-
-
     return (
         <>
-            <HeaderPerfil />
+            <HeaderPerfil 
+            titulo={'Questions'}/>
 
             <SectionStyle>
-                {/* <Menu />
+                {/* <Menu /> */}
                 <Card />
 
-                <Historicos /> */}
+                {/* <Historicos /> */}
 
             </SectionStyle>
 

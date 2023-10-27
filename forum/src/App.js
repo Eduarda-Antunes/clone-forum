@@ -10,7 +10,7 @@ function App() {
       <GlobalStyle />
 
       <GlobalState>
-        <Rotas />
+        <Rotas/>
       </GlobalState>
     </>
   )
